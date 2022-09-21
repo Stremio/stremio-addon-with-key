@@ -21,7 +21,7 @@ npm start
 
 - user authentication
 - account specific requirements: rate limiting / tracking usage
-- addon monetization: **only monetize content that you are legally allowed to distribute** the addon developer can use his own payment platform and distribute api keys for enabling addon use
+- addon monetization: **only monetize content that you are legally allowed to distribute** the addon developer can use his own payment platform and distribute API keys for enabling addon use
 
 ### Understanding the code
 
