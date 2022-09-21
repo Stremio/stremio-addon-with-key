@@ -9,7 +9,7 @@ This is an example for a [Stremio](https://stremio.com/) addon that requires a k
 npm install
 npm start
 ```
-- open `http://127.0.0.1:7000/` in a browser
+- open `http://127.0.0.1:7700/` in a browser
 
 ### Objectives
 
