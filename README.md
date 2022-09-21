@@ -40,7 +40,7 @@ const keys = [
 ]
 ```
 
-First we will add the behavior hints to the addon manifest:
+We add the behavior hints to the addon manifest:
 ```json
     "behaviorHints": {
         "configurable": true,
