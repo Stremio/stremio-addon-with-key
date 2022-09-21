@@ -17,7 +17,7 @@ npm start
 - addon will only be installable if it has a key provided by the user
 - addon serves streams (public domain streams have been added as an example) only if the key provided by the user is valid
 
-### Use cases could be
+### Use cases
 
 - user authentication
 - account specific requirements: rate limiting / tracking usage
